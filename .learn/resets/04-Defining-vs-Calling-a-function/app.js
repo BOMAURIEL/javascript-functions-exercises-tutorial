@@ -1,7 +1,5 @@
 // Define the function called "multi" that expects 2 parameters:
-function multi(parameter1, parameter2){
-    return parameter1 * parameter2;
-}
+
 
 // Don't edit anything below this line
 let returnValue = multi(7,53812212);
